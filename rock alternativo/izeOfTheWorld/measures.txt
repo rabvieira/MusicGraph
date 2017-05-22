@@ -1,0 +1,11 @@
+1.Length of composition:	567840 
+2.Total number of nodes:	942 
+3.Total number of edges:	1145 
+4.Mean degree:			1.215 
+5.Average path length:		241.309 
+6.Network diameter:		737 
+7.Clustering coefficient:	0.00000 
+8.Average closeness centrality:	0.00044 
+9.Girth:			4
+10.Max Degree:			6
+11.Density:			0.002583
